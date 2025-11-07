@@ -66,17 +66,7 @@ We work with diverse clients including:
 - Little Stars Academy  
 - Tech Peak  
 
----
 
-## 📣 Latest Blog Posts
-
-Stay updated with insights, guides, and case studies:  
-
-- [Periwin Solutions Is Now in London](https://www.periwin.com/blogs/periwin-solutions-now-in-london)  
-- [The Ultimate Guide to UK Accounting & Compliance](https://www.periwin.com/blogs/uk-accounting-guide)  
-- [How We Develop Software at Periwin: Agile and Scalable](https://www.periwin.com/blogs/agile-software-development)  
-
----
 
 ## 📬 Contact Us
 
